@@ -1,0 +1,3 @@
+<div class="col-6 col-lg-6 col-md-6 col-sm-6 text-left"> <a class="nav-item nav-link text-dark active" data-toggle="tab" href="#tab-pane-1"> <span style="font-weight: 600;">Photos</span> </a></div>
+
+                        <div class="col-6 col-lg-6 col-md-6 col-sm-6 text-right"><a class="nav-item nav-link text-dark" data-toggle="tab" href="#tab-pane-2" style="margin-left:70px ;"><span style="font-weight: 600;">About</span> </a></div>
